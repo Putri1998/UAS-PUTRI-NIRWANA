@@ -1,0 +1,217 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.footerawal {
+text-align: center;
+display: block;
+padding: 20px 10px 5px 30px;
+margin: 10px 0;
+background-image: linear-gradient(red, #FF1493, rgba(255,192,203));
+height: 60px;
+color: white;
+}
+
+
+
+.beranda-header {
+text-align: center;
+display: block;
+padding: 20px 10px 5px 30px;
+margin: 5px 0;
+background-image: linear-gradient(red, #FF1493, rgba(255,192,203));
+height: 200px;
+ font-weight: bold;
+
+}
+
+
+
+.beranda-h2, .beranda-h5{
+    text-decoration: none;
+    color: #DC143C;
+    color: white;
+    font-weight: bold;
+    
+} 
+
+
+.beranda-mulai-belanja{
+    
+    background-color: #FA8072;
+    color:white;
+    font-weight: bold;
+    text-align: right;
+    padding: 6px 6px 6px 6px;
+    text-decoration: none;
+    float: center;
+  
+}
+
+
+
+
+.beranda-badan{
+    width: 1300px;
+    margin: 0px auto;
+    
+    padding: 20px;
+    overflow: hidden;
+    
+}
+
+
+ 
+
+.header {
+text-align: center;
+display: block;
+padding: 20px 10px 5px 30px;
+margin: 5px 0;
+
+background-image: linear-gradient(red, #FF1493, rgba(255,192,203));
+height: 115px;
+border-radius: 15px;
+}
+
+.videoheader {
+text-align: center;
+display: block;
+padding: 10px 10px 5px 30px;
+margin: 5px 0;
+
+background:gambarindex\bgberanda.jpg;
+height: 200px;
+border-radius: 15px;
+}
+
+.videoheader video
+{
+    width: 100%;
+    height: 175px;
+    display: block;
+    margin-bottom: 0px;
+
+}
+
+.footer {
+text-align: center;
+display: block;
+padding: 20px 10px 5px 30px;
+margin: 10px 0;
+ background-image: linear-gradient(red, #FF1493, rgba(255,192,203));
+height: 70px;
+border-radius: 15px;
+}
+
+
+.badan
+{
+    width: 800px;
+    margin: auto;
+  background:gambarindex\bgberanda.jpg;
+    padding: 2px;
+    overflow: hidden;
+    
+}
+ 
+.list-produk
+{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    margin: 1px;
+    background: linear-gradient(to right, #f05053 80%, #e1eec3); 
+     
+    
+}
+
+.list-produk-info
+{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 500px;
+    height: 197px;
+    margin: 1px;
+    font-size: 20px;
+    color:black;
+    font-weight: bold;
+    background: linear-gradient(to right, #f05053 80%, #e1eec3); 
+     
+    
+}
+
+.beli-produk-ini
+{
+    border: 0px solid gainsboro;
+    padding: 0px;
+    float: left;
+    width: 150px;
+    margin: 1px;
+     
+    
+}
+
+
+
+.data-diri
+{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    width: 500px;
+    height: 300px;
+    margin: 1px;
+     
+    
+}
+
+.previouspage
+{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    margin: 1px;   
+    
+}
+
+.nextpage
+{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: right;
+    width: 200px;
+    margin: 1px;   
+    
+}
+
+.list-produk img
+{
+    width: 100%;
+    height: 175px;
+    display: block;
+    margin-bottom: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
